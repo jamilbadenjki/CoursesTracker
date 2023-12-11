@@ -1,0 +1,15 @@
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\bin\Debug\BookWithDoctor.exe.config
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\bin\Debug\BookWithDoctor.exe
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\bin\Debug\BookWithDoctor.pdb
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.csproj.AssemblyReference.cache
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.Properties.Resources.resources
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.csproj.GenerateResource.cache
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.csproj.CoreCompileInputs.cache
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.exe
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.pdb
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.FRM_Books.resources
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.FRM_Sign.resources
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.FRM_BackGround.resources
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.FRM_Main.resources
+C:\Users\Jamil\source\repos\BookWithDoctor\BookWithDoctor\obj\Debug\BookWithDoctor.FRM_AddBook.resources
